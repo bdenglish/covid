@@ -1,8 +1,8 @@
 [
   {
-    "address": "1603 Lincoln Highway East, Lancaster, PA 17602",
-    "zip": "17602",
-    "phone": "717-394-9826",
+    "address": "3644 MacArthur Road, Whitehall, PA 18052",
+    "zip": "18052",
+    "phone": "610-261-3600",
     "date_avail": "2021-03-08",
     "hours_avail": "11:00 AM-2:20 PM",
     "day_of_week": 0
@@ -27,22 +27,6 @@
     "address": "1075 West King Street, Shippensburg, PA 17257",
     "zip": "17257",
     "phone": "717-532-3432",
-    "date_avail": "2021-03-08",
-    "hours_avail": "11:00 AM-2:20 PM",
-    "day_of_week": 0
-  },
-  {
-    "address": "1571 Route 209, Millersburg, PA 17061",
-    "zip": "17061",
-    "phone": "717-692-3656",
-    "date_avail": "2021-03-08",
-    "hours_avail": "11:00 AM-2:20 PM",
-    "day_of_week": 0
-  },
-  {
-    "address": "2065 Springwood Rd, York, PA 17403",
-    "zip": "17403",
-    "phone": "717-852-8665",
     "date_avail": "2021-03-08",
     "hours_avail": "11:00 AM-2:20 PM",
     "day_of_week": 0
