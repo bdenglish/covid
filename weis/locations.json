@@ -1,8 +1,16 @@
 [
   {
-    "address": "25 West Germantown Pike, Norristown, PA 19401",
-    "zip": "19401",
-    "phone": "610-278-0256",
+    "address": "3644 MacArthur Road, Whitehall, PA 18052",
+    "zip": "18052",
+    "phone": "610-261-3600",
+    "date_avail": "2021-03-08",
+    "hours_avail": "11:00 AM-2:20 PM",
+    "day_of_week": 0
+  },
+  {
+    "address": "316 Walnut Street, Newport, PA 17074",
+    "zip": "17074",
+    "phone": "717-567-6047",
     "date_avail": "2021-03-08",
     "hours_avail": "11:00 AM-2:20 PM",
     "day_of_week": 0
@@ -14,46 +22,6 @@
     "date_avail": "2021-03-09",
     "hours_avail": "2:00 PM-6:40 PM",
     "day_of_week": 1
-  },
-  {
-    "address": "1571 Route 209, Millersburg, PA 17061",
-    "zip": "17061",
-    "phone": "717-692-3656",
-    "date_avail": "2021-03-08",
-    "hours_avail": "11:00 AM-2:20 PM",
-    "day_of_week": 0
-  },
-  {
-    "address": "15260 Kutztown Road Suite 2, Kutztown, PA 19530",
-    "zip": "19530",
-    "phone": "610-683-5827",
-    "date_avail": "2021-03-08",
-    "hours_avail": "11:00 AM-2:20 PM",
-    "day_of_week": 0
-  },
-  {
-    "address": "860 Carlisle Street, Hanover, PA 17331",
-    "zip": "17331",
-    "phone": "717-632-7781",
-    "date_avail": "2021-03-08",
-    "hours_avail": "11:00 AM-2:20 PM",
-    "day_of_week": 0
-  },
-  {
-    "address": "740 South Broad Street, Lititz, PA 17543",
-    "zip": "17543",
-    "phone": "717-626-8507",
-    "date_avail": "2021-03-08",
-    "hours_avail": "11:00 AM-2:20 PM",
-    "day_of_week": 0
-  },
-  {
-    "address": "2065 Springwood Rd, York, PA 17403",
-    "zip": "17403",
-    "phone": "717-852-8665",
-    "date_avail": "2021-03-08",
-    "hours_avail": "11:00 AM-2:20 PM",
-    "day_of_week": 0
   },
   {
     "address": "1800 Roosevelt Ave, York, PA 17404",
@@ -72,9 +40,17 @@
     "day_of_week": 0
   },
   {
-    "address": "316 Walnut Street, Newport, PA 17074",
-    "zip": "17074",
-    "phone": "717-567-6047",
+    "address": "1571 Route 209, Millersburg, PA 17061",
+    "zip": "17061",
+    "phone": "717-692-3656",
+    "date_avail": "2021-03-08",
+    "hours_avail": "11:00 AM-2:20 PM",
+    "day_of_week": 0
+  },
+  {
+    "address": "2065 Springwood Rd, York, PA 17403",
+    "zip": "17403",
+    "phone": "717-852-8665",
     "date_avail": "2021-03-08",
     "hours_avail": "11:00 AM-2:20 PM",
     "day_of_week": 0
