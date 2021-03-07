@@ -1,5 +1,21 @@
 [
   {
+    "address": "25 West Germantown Pike, Norristown, PA 19401",
+    "zip": "19401",
+    "phone": "610-278-0256",
+    "date_avail": "2021-03-08",
+    "hours_avail": "11:00 AM-2:20 PM",
+    "day_of_week": 0
+  },
+  {
+    "address": "110 Rolling Ridge Drive, State College, PA 16801",
+    "zip": "16801",
+    "phone": "814-231-8399",
+    "date_avail": "2021-03-09",
+    "hours_avail": "2:00 PM-6:40 PM",
+    "day_of_week": 1
+  },
+  {
     "address": "1571 Route 209, Millersburg, PA 17061",
     "zip": "17061",
     "phone": "717-692-3656",
@@ -16,17 +32,17 @@
     "day_of_week": 0
   },
   {
-    "address": "740 South Broad Street, Lititz, PA 17543",
-    "zip": "17543",
-    "phone": "717-626-8507",
+    "address": "860 Carlisle Street, Hanover, PA 17331",
+    "zip": "17331",
+    "phone": "717-632-7781",
     "date_avail": "2021-03-08",
     "hours_avail": "11:00 AM-2:20 PM",
     "day_of_week": 0
   },
   {
-    "address": "860 Carlisle Street, Hanover, PA 17331",
-    "zip": "17331",
-    "phone": "717-632-7781",
+    "address": "740 South Broad Street, Lititz, PA 17543",
+    "zip": "17543",
+    "phone": "717-626-8507",
     "date_avail": "2021-03-08",
     "hours_avail": "11:00 AM-2:20 PM",
     "day_of_week": 0
