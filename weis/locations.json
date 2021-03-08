@@ -1,18 +1,18 @@
 [
   {
-    "address": "2160 White Street, York, PA 17404",
-    "zip": "17404",
-    "phone": "717-845-1318",
-    "date_avail": "2021-03-10",
-    "hours_avail": "10:15 AM-2:00 PM",
-    "day_of_week": 2
-  },
-  {
     "address": "5580 Crawford Drive, Bethlehem, PA 18017",
     "zip": "18017",
     "phone": "610-954-8323",
     "date_avail": "2021-03-10",
     "hours_avail": "2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
+    "address": "2160 White Street, York, PA 17404",
+    "zip": "17404",
+    "phone": "717-845-1318",
+    "date_avail": "2021-03-10",
+    "hours_avail": "10:15 AM-2:00 PM",
     "day_of_week": 2
   },
   {
