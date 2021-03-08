@@ -1,13 +1,5 @@
 [
   {
-    "address": "431 Dublin Pike, Perkasie, PA 18944",
-    "zip": "18944",
-    "phone": "215-249-1448",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
     "address": "1075 West King Street, Shippensburg, PA 17257",
     "zip": "17257",
     "phone": "717-532-3432",
@@ -67,14 +59,6 @@
     "address": "1916 Lycoming Creek Road, Williamsport, PA 17701",
     "zip": "17701",
     "phone": "570-326-5144",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "61 King's Plaza, Oley, PA 19547",
-    "zip": "19547",
-    "phone": "610-987-9877",
     "date_avail": "2021-03-10",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 2
@@ -152,25 +136,9 @@
     "day_of_week": 3
   },
   {
-    "address": "431 Dublin Pike, Perkasie, PA 18944",
-    "zip": "18944",
-    "phone": "215-249-1448",
-    "date_avail": "2021-03-11",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
     "address": "5580 Crawford Drive, Bethlehem, PA 18017",
     "zip": "18017",
     "phone": "610-954-8323",
-    "date_avail": "2021-03-11",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
-    "address": "65 Meadow Green Drive, Mifflinburg, PA 17844",
-    "zip": "17844",
-    "phone": "570-966-6505",
     "date_avail": "2021-03-11",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 3
@@ -312,14 +280,6 @@
     "day_of_week": 2
   },
   {
-    "address": "1075 West King Street, Shippensburg, PA 17257",
-    "zip": "17257",
-    "phone": "717-532-3432",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
     "address": "365 South Cedar Crest Blvd, Allentown, PA 18103",
     "zip": "18103",
     "phone": "610-821-4560",
@@ -328,17 +288,17 @@
     "day_of_week": 3
   },
   {
+    "address": "1075 West King Street, Shippensburg, PA 17257",
+    "zip": "17257",
+    "phone": "717-532-3432",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
     "address": "110 Rolling Ridge Drive, State College, PA 16801",
     "zip": "16801",
     "phone": "814-231-8399",
-    "date_avail": "2021-03-11",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
-    "address": "3825 Sullivan Trail, Easton, PA 18040",
-    "zip": "18040",
-    "phone": "610-252-6756",
     "date_avail": "2021-03-11",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 3
@@ -350,6 +310,14 @@
     "date_avail": "2021-03-10",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 2
+  },
+  {
+    "address": "3825 Sullivan Trail, Easton, PA 18040",
+    "zip": "18040",
+    "phone": "610-252-6756",
+    "date_avail": "2021-03-11",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 3
   },
   {
     "address": "860 Carlisle Street, Hanover, PA 17331",
@@ -376,6 +344,38 @@
     "day_of_week": 2
   },
   {
+    "address": "1112 West Wyomissing Blvd, West Lawn, PA 19609",
+    "zip": "19609",
+    "phone": "610-775-3409",
+    "date_avail": "2021-03-11",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 3
+  },
+  {
+    "address": "431 Dublin Pike, Perkasie, PA 18944",
+    "zip": "18944",
+    "phone": "215-249-1448",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
+    "address": "65 Meadow Green Drive, Mifflinburg, PA 17844",
+    "zip": "17844",
+    "phone": "570-966-6505",
+    "date_avail": "2021-03-11",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 3
+  },
+  {
+    "address": "431 Dublin Pike, Perkasie, PA 18944",
+    "zip": "18944",
+    "phone": "215-249-1448",
+    "date_avail": "2021-03-11",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 3
+  },
+  {
     "address": "61 King's Plaza, Oley, PA 19547",
     "zip": "19547",
     "phone": "610-987-9877",
@@ -384,11 +384,11 @@
     "day_of_week": 3
   },
   {
-    "address": "1112 West Wyomissing Blvd, West Lawn, PA 19609",
-    "zip": "19609",
-    "phone": "610-775-3409",
-    "date_avail": "2021-03-11",
+    "address": "61 King's Plaza, Oley, PA 19547",
+    "zip": "19547",
+    "phone": "610-987-9877",
+    "date_avail": "2021-03-10",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 3
+    "day_of_week": 2
   }
 ]
