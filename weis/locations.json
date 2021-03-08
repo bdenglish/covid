@@ -1,18 +1,18 @@
 [
   {
-    "address": "110 Rolling Ridge Drive, State College, PA 16801",
-    "zip": "16801",
-    "phone": "814-231-8399",
-    "date_avail": "2021-03-11",
+    "address": "1571 Route 209, Millersburg, PA 17061",
+    "zip": "17061",
+    "phone": "717-692-3656",
+    "date_avail": "2021-03-10",
     "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 3
+    "day_of_week": 2
   },
   {
     "address": "65 Meadow Green Drive, Mifflinburg, PA 17844",
     "zip": "17844",
     "phone": "570-966-6505",
     "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "hours_avail": "2:00 PM-6:40 PM",
     "day_of_week": 2
   },
   {
@@ -24,35 +24,11 @@
     "day_of_week": 2
   },
   {
-    "address": "1916 Lycoming Creek Road, Williamsport, PA 17701",
-    "zip": "17701",
-    "phone": "570-326-5144",
-    "date_avail": "2021-03-11",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
     "address": "110 Rolling Ridge Drive, State College, PA 16801",
     "zip": "16801",
     "phone": "814-231-8399",
     "date_avail": "2021-03-09",
-    "hours_avail": "11:00 AM-1:00 PM",
-    "day_of_week": 1
-  },
-  {
-    "address": "1075 West King Street, Shippensburg, PA 17257",
-    "zip": "17257",
-    "phone": "717-532-3432",
-    "date_avail": "2021-03-11",
     "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
-    "address": "860 Carlisle Street, Hanover, PA 17331",
-    "zip": "17331",
-    "phone": "717-632-7781",
-    "date_avail": "2021-03-09",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 1
   }
 ]
