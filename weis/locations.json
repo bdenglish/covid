@@ -1,11 +1,11 @@
 [
   {
-    "address": "1112 West Wyomissing Blvd, West Lawn, PA 19609",
-    "zip": "19609",
-    "phone": "610-775-3409",
-    "date_avail": "2021-03-10",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 2
+    "address": "2160 White Street, York, PA 17404",
+    "zip": "17404",
+    "phone": "717-845-1318",
+    "date_avail": "2021-03-11",
+    "hours_avail": "11:30 AM-1:30 PM",
+    "day_of_week": 3
   },
   {
     "address": "2160 White Street, York, PA 17404",
@@ -14,6 +14,14 @@
     "date_avail": "2021-03-10",
     "hours_avail": "10:15 AM-2:00 PM,2:30 PM-6:15 PM",
     "day_of_week": 2
+  },
+  {
+    "address": "2160 White Street, York, PA 17404",
+    "zip": "17404",
+    "phone": "717-845-1318",
+    "date_avail": "2021-03-12",
+    "hours_avail": "10:00 AM-2:00 PM,5:00 PM-6:00 PM",
+    "day_of_week": 4
   },
   {
     "address": "7801 Glenlivet Drive West, Fogelsville, PA 18051",
