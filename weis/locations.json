@@ -1,5 +1,13 @@
 [
   {
+    "address": "1075 West King Street, Shippensburg, PA 17257",
+    "zip": "17257",
+    "phone": "717-532-3432",
+    "date_avail": "2021-03-11",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 3
+  },
+  {
     "address": "860 Carlisle Street, Hanover, PA 17331",
     "zip": "17331",
     "phone": "717-632-7781",
@@ -8,195 +16,11 @@
     "day_of_week": 2
   },
   {
-    "address": "1916 Lycoming Creek Road, Williamsport, PA 17701",
-    "zip": "17701",
-    "phone": "570-326-5144",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "1571 Route 209, Millersburg, PA 17061",
-    "zip": "17061",
-    "phone": "717-692-3656",
-    "date_avail": "2021-03-11",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
-    "address": "1916 Lycoming Creek Road, Williamsport, PA 17701",
-    "zip": "17701",
-    "phone": "570-326-5144",
-    "date_avail": "2021-03-11",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
-    "address": "1571 Route 209, Millersburg, PA 17061",
-    "zip": "17061",
-    "phone": "717-692-3656",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "65 Meadow Green Drive, Mifflinburg, PA 17844",
-    "zip": "17844",
-    "phone": "570-966-6505",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "1075 West King Street, Shippensburg, PA 17257",
-    "zip": "17257",
-    "phone": "717-532-3432",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "110 Rolling Ridge Drive, State College, PA 16801",
-    "zip": "16801",
-    "phone": "814-231-8399",
-    "date_avail": "2021-03-11",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
-    "address": "15260 Kutztown Road Suite 2, Kutztown, PA 19530",
-    "zip": "19530",
-    "phone": "610-683-5827",
-    "date_avail": "2021-03-11",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
-    "address": "5140 Simpson Ferry Road, Mechanicsburg, PA 17055",
-    "zip": "17055",
-    "phone": "717-697-8101",
-    "date_avail": "2021-03-11",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
-    "address": "4525 Valley Road, Enola, PA 17025",
-    "zip": "17025",
-    "phone": "717-732-4106",
-    "date_avail": "2021-03-11",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
-    "address": "1800 Roosevelt Ave, York, PA 17404",
-    "zip": "17404",
-    "phone": "717-767-7009",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "1603 Lincoln Highway East, Lancaster, PA 17602",
-    "zip": "17602",
-    "phone": "717-394-9826",
-    "date_avail": "2021-03-10",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "1400 Stony Battery Road, Lancaster, PA 17601",
-    "zip": "17601",
-    "phone": "717-285-7493",
-    "date_avail": "2021-03-11",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
-    "address": "4525 Valley Road, Enola, PA 17025",
-    "zip": "17025",
-    "phone": "717-732-4106",
-    "date_avail": "2021-03-10",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "2065 Springwood Rd, York, PA 17403",
-    "zip": "17403",
-    "phone": "717-852-8665",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "15260 Kutztown Road Suite 2, Kutztown, PA 19530",
-    "zip": "19530",
-    "phone": "610-683-5827",
-    "date_avail": "2021-03-10",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "3825 Sullivan Trail, Easton, PA 18040",
-    "zip": "18040",
-    "phone": "610-252-6756",
-    "date_avail": "2021-03-11",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
-    "address": "3825 Sullivan Trail, Easton, PA 18040",
-    "zip": "18040",
-    "phone": "610-252-6756",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "695 North Courtland Street, East Stroudsburg, PA 18301",
-    "zip": "18301",
-    "phone": "570-424-8065",
-    "date_avail": "2021-03-11",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
     "address": "1700 Fruitville Pike Suite A, Lancaster, PA 17601",
     "zip": "17601",
     "phone": "717-397-8161",
     "date_avail": "2021-03-10",
     "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "1400 Stony Battery Road, Lancaster, PA 17601",
-    "zip": "17601",
-    "phone": "717-285-7493",
-    "date_avail": "2021-03-10",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "1220 Chestnut Street, Emmaus, PA 18049",
-    "zip": "18049",
-    "phone": "610-967-2900",
-    "date_avail": "2021-03-11",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
-    "address": "695 North Courtland Street, East Stroudsburg, PA 18301",
-    "zip": "18301",
-    "phone": "570-424-8065",
-    "date_avail": "2021-03-10",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "740 South Broad Street, Lititz, PA 17543",
-    "zip": "17543",
-    "phone": "717-626-8507",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 2
   },
   {
@@ -208,28 +32,36 @@
     "day_of_week": 3
   },
   {
-    "address": "2065 Springwood Rd, York, PA 17403",
-    "zip": "17403",
-    "phone": "717-852-8665",
-    "date_avail": "2021-03-11",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
-    "address": "65 Meadow Green Drive, Mifflinburg, PA 17844",
-    "zip": "17844",
-    "phone": "570-966-6505",
-    "date_avail": "2021-03-11",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
     "address": "1700 Fruitville Pike Suite A, Lancaster, PA 17601",
     "zip": "17601",
     "phone": "717-397-8161",
     "date_avail": "2021-03-11",
     "hours_avail": "2:00 PM-6:40 PM",
     "day_of_week": 3
+  },
+  {
+    "address": "15260 Kutztown Road Suite 2, Kutztown, PA 19530",
+    "zip": "19530",
+    "phone": "610-683-5827",
+    "date_avail": "2021-03-11",
+    "hours_avail": "2:00 PM-6:40 PM",
+    "day_of_week": 3
+  },
+  {
+    "address": "2065 Springwood Rd, York, PA 17403",
+    "zip": "17403",
+    "phone": "717-852-8665",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
+    "address": "1916 Lycoming Creek Road, Williamsport, PA 17701",
+    "zip": "17701",
+    "phone": "570-326-5144",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
   },
   {
     "address": "331 North Reading Road, Ephrata, PA 17522",
@@ -240,20 +72,44 @@
     "day_of_week": 2
   },
   {
-    "address": "860 Carlisle Street, Hanover, PA 17331",
-    "zip": "17331",
-    "phone": "717-632-7781",
+    "address": "1571 Route 209, Millersburg, PA 17061",
+    "zip": "17061",
+    "phone": "717-692-3656",
     "date_avail": "2021-03-11",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 3
   },
   {
-    "address": "1800 Roosevelt Ave, York, PA 17404",
-    "zip": "17404",
-    "phone": "717-767-7009",
+    "address": "740 South Broad Street, Lititz, PA 17543",
+    "zip": "17543",
+    "phone": "717-626-8507",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
+    "address": "1916 Lycoming Creek Road, Williamsport, PA 17701",
+    "zip": "17701",
+    "phone": "570-326-5144",
     "date_avail": "2021-03-11",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 3
+  },
+  {
+    "address": "4525 Valley Road, Enola, PA 17025",
+    "zip": "17025",
+    "phone": "717-732-4106",
+    "date_avail": "2021-03-11",
+    "hours_avail": "2:00 PM-6:40 PM",
+    "day_of_week": 3
+  },
+  {
+    "address": "1603 Lincoln Highway East, Lancaster, PA 17602",
+    "zip": "17602",
+    "phone": "717-394-9826",
+    "date_avail": "2021-03-10",
+    "hours_avail": "2:00 PM-6:40 PM",
+    "day_of_week": 2
   },
   {
     "address": "740 South Broad Street, Lititz, PA 17543",
@@ -264,12 +120,100 @@
     "day_of_week": 3
   },
   {
-    "address": "1075 West King Street, Shippensburg, PA 17257",
-    "zip": "17257",
-    "phone": "717-532-3432",
+    "address": "2065 Springwood Rd, York, PA 17403",
+    "zip": "17403",
+    "phone": "717-852-8665",
     "date_avail": "2021-03-11",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 3
+  },
+  {
+    "address": "65 Meadow Green Drive, Mifflinburg, PA 17844",
+    "zip": "17844",
+    "phone": "570-966-6505",
+    "date_avail": "2021-03-11",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 3
+  },
+  {
+    "address": "15260 Kutztown Road Suite 2, Kutztown, PA 19530",
+    "zip": "19530",
+    "phone": "610-683-5827",
+    "date_avail": "2021-03-10",
+    "hours_avail": "2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
+    "address": "1800 Roosevelt Ave, York, PA 17404",
+    "zip": "17404",
+    "phone": "717-767-7009",
+    "date_avail": "2021-03-11",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 3
+  },
+  {
+    "address": "695 North Courtland Street, East Stroudsburg, PA 18301",
+    "zip": "18301",
+    "phone": "570-424-8065",
+    "date_avail": "2021-03-11",
+    "hours_avail": "2:00 PM-6:40 PM",
+    "day_of_week": 3
+  },
+  {
+    "address": "1800 Roosevelt Ave, York, PA 17404",
+    "zip": "17404",
+    "phone": "717-767-7009",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
+    "address": "1571 Route 209, Millersburg, PA 17061",
+    "zip": "17061",
+    "phone": "717-692-3656",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
+    "address": "1400 Stony Battery Road, Lancaster, PA 17601",
+    "zip": "17601",
+    "phone": "717-285-7493",
+    "date_avail": "2021-03-11",
+    "hours_avail": "2:00 PM-6:40 PM",
+    "day_of_week": 3
+  },
+  {
+    "address": "3825 Sullivan Trail, Easton, PA 18040",
+    "zip": "18040",
+    "phone": "610-252-6756",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
+    "address": "4525 Valley Road, Enola, PA 17025",
+    "zip": "17025",
+    "phone": "717-732-4106",
+    "date_avail": "2021-03-10",
+    "hours_avail": "2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
+    "address": "5140 Simpson Ferry Road, Mechanicsburg, PA 17055",
+    "zip": "17055",
+    "phone": "717-697-8101",
+    "date_avail": "2021-03-11",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 3
+  },
+  {
+    "address": "65 Meadow Green Drive, Mifflinburg, PA 17844",
+    "zip": "17844",
+    "phone": "570-966-6505",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
   },
   {
     "address": "110 Rolling Ridge Drive, State College, PA 16801",
@@ -277,6 +221,54 @@
     "phone": "814-231-8399",
     "date_avail": "2021-03-10",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
+    "address": "695 North Courtland Street, East Stroudsburg, PA 18301",
+    "zip": "18301",
+    "phone": "570-424-8065",
+    "date_avail": "2021-03-10",
+    "hours_avail": "2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
+    "address": "1075 West King Street, Shippensburg, PA 17257",
+    "zip": "17257",
+    "phone": "717-532-3432",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
+    "address": "110 Rolling Ridge Drive, State College, PA 16801",
+    "zip": "16801",
+    "phone": "814-231-8399",
+    "date_avail": "2021-03-11",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 3
+  },
+  {
+    "address": "3825 Sullivan Trail, Easton, PA 18040",
+    "zip": "18040",
+    "phone": "610-252-6756",
+    "date_avail": "2021-03-11",
+    "hours_avail": "2:00 PM-6:40 PM",
+    "day_of_week": 3
+  },
+  {
+    "address": "860 Carlisle Street, Hanover, PA 17331",
+    "zip": "17331",
+    "phone": "717-632-7781",
+    "date_avail": "2021-03-11",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 3
+  },
+  {
+    "address": "1400 Stony Battery Road, Lancaster, PA 17601",
+    "zip": "17601",
+    "phone": "717-285-7493",
+    "date_avail": "2021-03-10",
+    "hours_avail": "2:00 PM-6:40 PM",
     "day_of_week": 2
   }
 ]
