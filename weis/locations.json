@@ -1,10 +1,18 @@
 [
   {
-    "address": "860 Carlisle Street, Hanover, PA 17331",
-    "zip": "17331",
-    "phone": "717-632-7781",
-    "date_avail": "2021-03-11",
+    "address": "1700 Fruitville Pike Suite A, Lancaster, PA 17601",
+    "zip": "17601",
+    "phone": "717-397-8161",
+    "date_avail": "2021-03-10",
     "hours_avail": "11:00 AM-1:00 PM",
-    "day_of_week": 3
+    "day_of_week": 2
+  },
+  {
+    "address": "110 Rolling Ridge Drive, State College, PA 16801",
+    "zip": "16801",
+    "phone": "814-231-8399",
+    "date_avail": "2021-03-09",
+    "hours_avail": "2:00 PM-6:40 PM",
+    "day_of_week": 1
   }
 ]
