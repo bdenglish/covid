@@ -224,20 +224,20 @@
     "day_of_week": 2
   },
   {
-    "address": "365 South Cedar Crest Blvd, Allentown, PA 18103",
-    "zip": "18103",
-    "phone": "610-821-4560",
-    "date_avail": "2021-03-11",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
     "address": "1075 West King Street, Shippensburg, PA 17257",
     "zip": "17257",
     "phone": "717-532-3432",
     "date_avail": "2021-03-10",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 2
+  },
+  {
+    "address": "365 South Cedar Crest Blvd, Allentown, PA 18103",
+    "zip": "18103",
+    "phone": "610-821-4560",
+    "date_avail": "2021-03-11",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 3
   },
   {
     "address": "110 Rolling Ridge Drive, State College, PA 16801",
