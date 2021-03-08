@@ -8,12 +8,36 @@
     "day_of_week": 3
   },
   {
+    "address": "860 Carlisle Street, Hanover, PA 17331",
+    "zip": "17331",
+    "phone": "717-632-7781",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
+    "address": "2065 Springwood Rd, York, PA 17403",
+    "zip": "17403",
+    "phone": "717-852-8665",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
     "address": "1916 Lycoming Creek Road, Williamsport, PA 17701",
     "zip": "17701",
     "phone": "570-326-5144",
     "date_avail": "2021-03-10",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 2
+  },
+  {
+    "address": "1571 Route 209, Millersburg, PA 17061",
+    "zip": "17061",
+    "phone": "717-692-3656",
+    "date_avail": "2021-03-11",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 3
   },
   {
     "address": "1916 Lycoming Creek Road, Williamsport, PA 17701",
@@ -24,6 +48,38 @@
     "day_of_week": 3
   },
   {
+    "address": "2065 Springwood Rd, York, PA 17403",
+    "zip": "17403",
+    "phone": "717-852-8665",
+    "date_avail": "2021-03-11",
+    "hours_avail": "2:00 PM-6:40 PM",
+    "day_of_week": 3
+  },
+  {
+    "address": "65 Meadow Green Drive, Mifflinburg, PA 17844",
+    "zip": "17844",
+    "phone": "570-966-6505",
+    "date_avail": "2021-03-11",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 3
+  },
+  {
+    "address": "1800 Roosevelt Ave, York, PA 17404",
+    "zip": "17404",
+    "phone": "717-767-7009",
+    "date_avail": "2021-03-11",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 3
+  },
+  {
+    "address": "1800 Roosevelt Ave, York, PA 17404",
+    "zip": "17404",
+    "phone": "717-767-7009",
+    "date_avail": "2021-03-10",
+    "hours_avail": "2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
     "address": "1571 Route 209, Millersburg, PA 17061",
     "zip": "17061",
     "phone": "717-692-3656",
@@ -32,9 +88,33 @@
     "day_of_week": 2
   },
   {
+    "address": "4525 Valley Road, Enola, PA 17025",
+    "zip": "17025",
+    "phone": "717-732-4106",
+    "date_avail": "2021-03-10",
+    "hours_avail": "2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
+    "address": "5140 Simpson Ferry Road, Mechanicsburg, PA 17055",
+    "zip": "17055",
+    "phone": "717-697-8101",
+    "date_avail": "2021-03-11",
+    "hours_avail": "2:00 PM-6:40 PM",
+    "day_of_week": 3
+  },
+  {
     "address": "65 Meadow Green Drive, Mifflinburg, PA 17844",
     "zip": "17844",
     "phone": "570-966-6505",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
+    "address": "110 Rolling Ridge Drive, State College, PA 16801",
+    "zip": "16801",
+    "phone": "814-231-8399",
     "date_avail": "2021-03-10",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 2
@@ -56,89 +136,9 @@
     "day_of_week": 3
   },
   {
-    "address": "5140 Simpson Ferry Road, Mechanicsburg, PA 17055",
-    "zip": "17055",
-    "phone": "717-697-8101",
-    "date_avail": "2021-03-11",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
-    "address": "2065 Springwood Rd, York, PA 17403",
-    "zip": "17403",
-    "phone": "717-852-8665",
-    "date_avail": "2021-03-11",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
-    "address": "1800 Roosevelt Ave, York, PA 17404",
-    "zip": "17404",
-    "phone": "717-767-7009",
-    "date_avail": "2021-03-10",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
     "address": "860 Carlisle Street, Hanover, PA 17331",
     "zip": "17331",
     "phone": "717-632-7781",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "4525 Valley Road, Enola, PA 17025",
-    "zip": "17025",
-    "phone": "717-732-4106",
-    "date_avail": "2021-03-10",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "2065 Springwood Rd, York, PA 17403",
-    "zip": "17403",
-    "phone": "717-852-8665",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "860 Carlisle Street, Hanover, PA 17331",
-    "zip": "17331",
-    "phone": "717-632-7781",
-    "date_avail": "2021-03-11",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
-    "address": "65 Meadow Green Drive, Mifflinburg, PA 17844",
-    "zip": "17844",
-    "phone": "570-966-6505",
-    "date_avail": "2021-03-11",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
-    "address": "1800 Roosevelt Ave, York, PA 17404",
-    "zip": "17404",
-    "phone": "717-767-7009",
-    "date_avail": "2021-03-11",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
-    "address": "110 Rolling Ridge Drive, State College, PA 16801",
-    "zip": "16801",
-    "phone": "814-231-8399",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "1571 Route 209, Millersburg, PA 17061",
-    "zip": "17061",
-    "phone": "717-692-3656",
     "date_avail": "2021-03-11",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 3
