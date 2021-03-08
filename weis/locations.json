@@ -48,14 +48,6 @@
     "day_of_week": 2
   },
   {
-    "address": "3825 Sullivan Trail, Easton, PA 18040",
-    "zip": "18040",
-    "phone": "610-252-6756",
-    "date_avail": "2021-03-10",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
     "address": "5140 Simpson Ferry Road, Mechanicsburg, PA 17055",
     "zip": "17055",
     "phone": "717-697-8101",
@@ -86,14 +78,6 @@
     "date_avail": "2021-03-10",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 2
-  },
-  {
-    "address": "15260 Kutztown Road Suite 2, Kutztown, PA 19530",
-    "zip": "19530",
-    "phone": "610-683-5827",
-    "date_avail": "2021-03-11",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 3
   },
   {
     "address": "740 South Broad Street, Lititz, PA 17543",
@@ -142,14 +126,6 @@
     "date_avail": "2021-03-10",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 2
-  },
-  {
-    "address": "1700 Fruitville Pike Suite A, Lancaster, PA 17601",
-    "zip": "17601",
-    "phone": "717-397-8161",
-    "date_avail": "2021-03-11",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 3
   },
   {
     "address": "860 Carlisle Street, Hanover, PA 17331",
