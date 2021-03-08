@@ -1,34 +1,18 @@
 [
   {
-    "address": "1916 Lycoming Creek Road, Williamsport, PA 17701",
-    "zip": "17701",
-    "phone": "570-326-5144",
+    "address": "740 South Broad Street, Lititz, PA 17543",
+    "zip": "17543",
+    "phone": "717-626-8507",
     "date_avail": "2021-03-09",
-    "hours_avail": "2:00 PM-6:40 PM",
+    "hours_avail": "11:00 AM-1:00 PM",
     "day_of_week": 1
   },
   {
     "address": "1916 Lycoming Creek Road, Williamsport, PA 17701",
     "zip": "17701",
     "phone": "570-326-5144",
-    "date_avail": "2021-03-10",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "110 Rolling Ridge Drive, State College, PA 16801",
-    "zip": "16801",
-    "phone": "814-231-8399",
-    "date_avail": "2021-03-10",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "110 Rolling Ridge Drive, State College, PA 16801",
-    "zip": "16801",
-    "phone": "814-231-8399",
-    "date_avail": "2021-03-11",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 3
+    "date_avail": "2021-03-09",
+    "hours_avail": "11:00 AM-1:00 PM",
+    "day_of_week": 1
   }
 ]
