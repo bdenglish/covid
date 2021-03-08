@@ -8,6 +8,22 @@
     "day_of_week": 2
   },
   {
+    "address": "2160 White Street, York, PA 17404",
+    "zip": "17404",
+    "phone": "717-845-1318",
+    "date_avail": "2021-03-11",
+    "hours_avail": "11:30 AM-1:30 PM",
+    "day_of_week": 3
+  },
+  {
+    "address": "2160 White Street, York, PA 17404",
+    "zip": "17404",
+    "phone": "717-845-1318",
+    "date_avail": "2021-03-12",
+    "hours_avail": "10:00 AM-2:00 PM",
+    "day_of_week": 4
+  },
+  {
     "address": "7801 Glenlivet Drive West, Fogelsville, PA 18051",
     "zip": "18051",
     "phone": "610-530-3117",
