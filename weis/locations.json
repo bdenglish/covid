@@ -136,20 +136,20 @@
     "day_of_week": 2
   },
   {
-    "address": "1800 Roosevelt Ave, York, PA 17404",
-    "zip": "17404",
-    "phone": "717-767-7009",
-    "date_avail": "2021-03-11",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
     "address": "15260 Kutztown Road Suite 2, Kutztown, PA 19530",
     "zip": "19530",
     "phone": "610-683-5827",
     "date_avail": "2021-03-10",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 2
+  },
+  {
+    "address": "1800 Roosevelt Ave, York, PA 17404",
+    "zip": "17404",
+    "phone": "717-767-7009",
+    "date_avail": "2021-03-11",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 3
   },
   {
     "address": "695 North Courtland Street, East Stroudsburg, PA 18301",
@@ -222,14 +222,6 @@
     "date_avail": "2021-03-11",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 3
-  },
-  {
-    "address": "365 South Cedar Crest Blvd, Allentown, PA 18103",
-    "zip": "18103",
-    "phone": "610-821-4560",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
   },
   {
     "address": "65 Meadow Green Drive, Mifflinburg, PA 17844",
@@ -366,6 +358,14 @@
     "date_avail": "2021-03-11",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 3
+  },
+  {
+    "address": "365 South Cedar Crest Blvd, Allentown, PA 18103",
+    "zip": "18103",
+    "phone": "610-821-4560",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
   },
   {
     "address": "3644 MacArthur Road, Whitehall, PA 18052",
