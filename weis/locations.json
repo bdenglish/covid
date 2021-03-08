@@ -24,17 +24,17 @@
     "day_of_week": 2
   },
   {
-    "address": "15260 Kutztown Road Suite 2, Kutztown, PA 19530",
-    "zip": "19530",
-    "phone": "610-683-5827",
+    "address": "1700 Fruitville Pike Suite A, Lancaster, PA 17601",
+    "zip": "17601",
+    "phone": "717-397-8161",
     "date_avail": "2021-03-11",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 3
   },
   {
-    "address": "1700 Fruitville Pike Suite A, Lancaster, PA 17601",
-    "zip": "17601",
-    "phone": "717-397-8161",
+    "address": "15260 Kutztown Road Suite 2, Kutztown, PA 19530",
+    "zip": "19530",
+    "phone": "610-683-5827",
     "date_avail": "2021-03-11",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 3
@@ -120,20 +120,12 @@
     "day_of_week": 3
   },
   {
-    "address": "5580 Crawford Drive, Bethlehem, PA 18017",
-    "zip": "18017",
-    "phone": "610-954-8323",
+    "address": "1800 Roosevelt Ave, York, PA 17404",
+    "zip": "17404",
+    "phone": "717-767-7009",
     "date_avail": "2021-03-11",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 3
-  },
-  {
-    "address": "1112 West Wyomissing Blvd, West Lawn, PA 19609",
-    "zip": "19609",
-    "phone": "610-775-3409",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
   },
   {
     "address": "15260 Kutztown Road Suite 2, Kutztown, PA 19530",
@@ -142,14 +134,6 @@
     "date_avail": "2021-03-10",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 2
-  },
-  {
-    "address": "1800 Roosevelt Ave, York, PA 17404",
-    "zip": "17404",
-    "phone": "717-767-7009",
-    "date_avail": "2021-03-11",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 3
   },
   {
     "address": "695 North Courtland Street, East Stroudsburg, PA 18301",
@@ -198,14 +182,6 @@
     "date_avail": "2021-03-11",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 3
-  },
-  {
-    "address": "3825 Sullivan Trail, Easton, PA 18040",
-    "zip": "18040",
-    "phone": "610-252-6756",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
   },
   {
     "address": "4525 Valley Road, Enola, PA 17025",
@@ -304,9 +280,25 @@
     "day_of_week": 2
   },
   {
+    "address": "3825 Sullivan Trail, Easton, PA 18040",
+    "zip": "18040",
+    "phone": "610-252-6756",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
     "address": "1220 Chestnut Street, Emmaus, PA 18049",
     "zip": "18049",
     "phone": "610-967-2900",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
+    "address": "1112 West Wyomissing Blvd, West Lawn, PA 19609",
+    "zip": "19609",
+    "phone": "610-775-3409",
     "date_avail": "2021-03-10",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 2
@@ -347,17 +339,25 @@
     "address": "1603 Lincoln Highway East, Lancaster, PA 17602",
     "zip": "17602",
     "phone": "717-394-9826",
-    "date_avail": "2021-03-10",
+    "date_avail": "2021-03-11",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
+    "day_of_week": 3
+  },
+  {
+    "address": "5580 Crawford Drive, Bethlehem, PA 18017",
+    "zip": "18017",
+    "phone": "610-954-8323",
+    "date_avail": "2021-03-11",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 3
   },
   {
     "address": "1603 Lincoln Highway East, Lancaster, PA 17602",
     "zip": "17602",
     "phone": "717-394-9826",
-    "date_avail": "2021-03-11",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 3
+    "date_avail": "2021-03-10",
+    "hours_avail": "2:00 PM-6:40 PM",
+    "day_of_week": 2
   },
   {
     "address": "365 South Cedar Crest Blvd, Allentown, PA 18103",
