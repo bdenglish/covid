@@ -24,14 +24,6 @@
     "day_of_week": 2
   },
   {
-    "address": "1603 Lincoln Highway East, Lancaster, PA 17602",
-    "zip": "17602",
-    "phone": "717-394-9826",
-    "date_avail": "2021-03-11",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
     "address": "15260 Kutztown Road Suite 2, Kutztown, PA 19530",
     "zip": "19530",
     "phone": "610-683-5827",
@@ -112,14 +104,6 @@
     "day_of_week": 3
   },
   {
-    "address": "1603 Lincoln Highway East, Lancaster, PA 17602",
-    "zip": "17602",
-    "phone": "717-394-9826",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
     "address": "740 South Broad Street, Lititz, PA 17543",
     "zip": "17543",
     "phone": "717-626-8507",
@@ -152,20 +136,20 @@
     "day_of_week": 2
   },
   {
-    "address": "15260 Kutztown Road Suite 2, Kutztown, PA 19530",
-    "zip": "19530",
-    "phone": "610-683-5827",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
     "address": "1800 Roosevelt Ave, York, PA 17404",
     "zip": "17404",
     "phone": "717-767-7009",
     "date_avail": "2021-03-11",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 3
+  },
+  {
+    "address": "15260 Kutztown Road Suite 2, Kutztown, PA 19530",
+    "zip": "19530",
+    "phone": "610-683-5827",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
   },
   {
     "address": "695 North Courtland Street, East Stroudsburg, PA 18301",
@@ -272,14 +256,6 @@
     "day_of_week": 2
   },
   {
-    "address": "1075 West King Street, Shippensburg, PA 17257",
-    "zip": "17257",
-    "phone": "717-532-3432",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
     "address": "365 South Cedar Crest Blvd, Allentown, PA 18103",
     "zip": "18103",
     "phone": "610-821-4560",
@@ -288,20 +264,20 @@
     "day_of_week": 3
   },
   {
+    "address": "1075 West King Street, Shippensburg, PA 17257",
+    "zip": "17257",
+    "phone": "717-532-3432",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
     "address": "110 Rolling Ridge Drive, State College, PA 16801",
     "zip": "16801",
     "phone": "814-231-8399",
     "date_avail": "2021-03-11",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 3
-  },
-  {
-    "address": "1220 Chestnut Street, Emmaus, PA 18049",
-    "zip": "18049",
-    "phone": "610-967-2900",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
-    "day_of_week": 2
   },
   {
     "address": "3825 Sullivan Trail, Easton, PA 18040",
@@ -336,20 +312,20 @@
     "day_of_week": 2
   },
   {
+    "address": "1220 Chestnut Street, Emmaus, PA 18049",
+    "zip": "18049",
+    "phone": "610-967-2900",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
     "address": "1112 West Wyomissing Blvd, West Lawn, PA 19609",
     "zip": "19609",
     "phone": "610-775-3409",
     "date_avail": "2021-03-11",
     "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 3
-  },
-  {
-    "address": "431 Dublin Pike, Perkasie, PA 18944",
-    "zip": "18944",
-    "phone": "215-249-1448",
-    "date_avail": "2021-03-10",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 2
   },
   {
     "address": "61 King's Plaza, Oley, PA 19547",
@@ -376,11 +352,19 @@
     "day_of_week": 3
   },
   {
-    "address": "431 Dublin Pike, Perkasie, PA 18944",
-    "zip": "18944",
-    "phone": "215-249-1448",
+    "address": "1603 Lincoln Highway East, Lancaster, PA 17602",
+    "zip": "17602",
+    "phone": "717-394-9826",
+    "date_avail": "2021-03-10",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
+    "day_of_week": 2
+  },
+  {
+    "address": "1603 Lincoln Highway East, Lancaster, PA 17602",
+    "zip": "17602",
+    "phone": "717-394-9826",
     "date_avail": "2021-03-11",
-    "hours_avail": "2:00 PM-6:40 PM",
+    "hours_avail": "11:00 AM-1:00 PM,2:00 PM-6:40 PM",
     "day_of_week": 3
   },
   {
