@@ -3,32 +3,8 @@
     "address": "65 Meadow Green Drive, Mifflinburg, PA 17844",
     "zip": "17844",
     "phone": "570-966-6505",
-    "date_avail": "2021-03-10",
-    "hours_avail": "11:00 AM-1:00 PM",
-    "day_of_week": 2
-  },
-  {
-    "address": "65 Meadow Green Drive, Mifflinburg, PA 17844",
-    "zip": "17844",
-    "phone": "570-966-6505",
     "date_avail": "2021-03-11",
     "hours_avail": "11:00 AM-1:00 PM",
     "day_of_week": 3
-  },
-  {
-    "address": "1400 Stony Battery Road, Lancaster, PA 17601",
-    "zip": "17601",
-    "phone": "717-285-7493",
-    "date_avail": "2021-03-11",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 3
-  },
-  {
-    "address": "7801 Glenlivet Drive West, Fogelsville, PA 18051",
-    "zip": "18051",
-    "phone": "610-530-3117",
-    "date_avail": "2021-03-10",
-    "hours_avail": "10:00 AM-1:00 PM,1:30 PM-4:00 PM",
-    "day_of_week": 2
   }
 ]
