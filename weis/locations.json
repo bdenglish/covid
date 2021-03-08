@@ -1,19 +1,19 @@
 [
   {
-    "address": "431 Dublin Pike, Perkasie, PA 18944",
-    "zip": "18944",
-    "phone": "215-249-1448",
-    "date_avail": "2021-03-10",
-    "hours_avail": "2:00 PM-6:40 PM",
-    "day_of_week": 2
-  },
-  {
     "address": "15260 Kutztown Road Suite 2, Kutztown, PA 19530",
     "zip": "19530",
     "phone": "610-683-5827",
     "date_avail": "2021-03-11",
     "hours_avail": "2:00 PM-6:40 PM",
     "day_of_week": 3
+  },
+  {
+    "address": "431 Dublin Pike, Perkasie, PA 18944",
+    "zip": "18944",
+    "phone": "215-249-1448",
+    "date_avail": "2021-03-10",
+    "hours_avail": "2:00 PM-6:40 PM",
+    "day_of_week": 2
   },
   {
     "address": "7801 Glenlivet Drive West, Fogelsville, PA 18051",
